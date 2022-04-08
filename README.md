@@ -1,6 +1,6 @@
 # Magento 2 Popup Manager Extension
 
-<div class="list-features" style="text-align: justify;">As usual, when you possess a designed website, there is absolutely no way to change or customize some parts, especially the popup. Would you like to be able to edit the popup content by yourself without any developers? We will provide you with a wonderful tool to realize your wish which is <strong>Popup Manager for Magento 2</strong>.</div>
+<div class="list-features" style="text-align: justify;">As usual, when you possess a designed website, there is absolutely no way to change or customize some parts, especially the popup. Would you like to be able to edit the popup content by yourself without any developers? We will provide you with a wonderful tool to realize your wish which is <strong><a href="https://www.tigren.com/magento-2-extensions" rel="nofollow">Magento 2 Popup Manager Extension</a></strong>.</div>
 
 ![magento-2-newsletter-popup-extension-1](https://user-images.githubusercontent.com/26241389/162356338-df171bff-ecda-4e61-8daf-edbe8d2bb12f.png)
 
